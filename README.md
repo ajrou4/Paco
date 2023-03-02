@@ -1,1 +1,1 @@
-!a777 = hidutil phroperty --set '{"UserKeyMapping": []}'
+!a777 = hidutil property --set '{"UserKeyMapping": []}'
